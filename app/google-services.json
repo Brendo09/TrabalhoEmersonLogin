@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768078510480",
+    "project_id": "trabalho-emerson",
+    "storage_bucket": "trabalho-emerson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768078510480:android:c3378670d84ac118739b15",
+        "android_client_info": {
+          "package_name": "br.edu.ifsuldeminas.mch.trabalhoemerson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768078510480-qoa54o7nfatgmuq69bgcqp3t6q092941.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS3Pd49FSiBmrPw0h1rj_GfxIgIdaEfiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768078510480-qoa54o7nfatgmuq69bgcqp3t6q092941.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
